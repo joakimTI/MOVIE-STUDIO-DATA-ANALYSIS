@@ -12,9 +12,6 @@ In the world of movies, content is king. My goal is to provide comprehensive ana
 
 ### 2. DATA UNDERSTANDING
 
-- This section is the initial Exploratory Data Analysis on all files to find the best data sauce to answer the business questions
-
-
 #### The Data
 
 In the folder `zippedData` are movie datasets from:
@@ -28,6 +25,16 @@ In the folder `zippedData` are movie datasets from:
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or `pd.read_csv`, while the data from IMDB is located in a SQLite database.
 
 ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
+
+1. TMDB MOVIES DATASET
+	- This will give insight into which genre of movies is most popular.
+
+2. IMDB SQL DATASET
+ 	- This will give insight into the best performing directors and writers of 	the most popular movies.
+
+3. BOM MOVIE GROSS DATASET
+	- This will give insight into  which movie studio performed the best in 	terms of gross sales.
+
 
 Note that the above diagram shows ONLY the IMDB data. You will need to look carefully at the features to figure out how the IMDB data relates to the other provided data files.
 
