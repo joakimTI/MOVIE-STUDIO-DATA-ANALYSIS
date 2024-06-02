@@ -35,9 +35,39 @@ Because it was collected from various locations, the different files have differ
 3. BOM MOVIE GROSS DATASET
 	- This will give insight into  which movie studio performed the best in terms of gross sales.
 
-### 2. DATA ANALYSIS AND VISUALIZATION
+### 3. DATA ANALYSIS AND VISUALIZATION
 
-##### BUSINESS INSIGHT
+##### BUSINESS INSIGHTS
 1. The Top 5 movie genres by popularity are Action, Adventure, Science Fiction, Fantasy and Comedy. Allocate resources to the top genres and patner with the best studios and directors in these top genres.
 
-![Sine Wave Plot](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/genre_popularity.png)
+![Movie Genre Popularity](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/genre_popularity.png)
+
+2. The list below showcases a diverse goup of directors with proven success in the movie industry. Partner with these directors for better diversity in content and outreach to audience.
+    1.  Anthony Russo
+    2.  Joe Russo
+    3.  Nick Morris
+    4.  Christopher Nolan
+    5.  Sukumar
+    6.  Sriram Raghavan
+    7.  Nadine Labaki
+    8.  Nitesh Tiwari
+    9.  James Erskine
+    10. Putrama Tuta
+
+![Top Directors](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/Top_directors.png)
+
+3. Buena Vista is the top grossing studio, which speaks to its market share and ability to generate very popular movies. Buena Vista holds a significant market share of the movies industry in terms of gross sales, which illustrates its dominance. The list below shows the top 10 studios to patner with from a gross sales standpoint: 
+    1.  Buena Vista
+    2.  Universal
+    3.  Warner Brothers
+    4.  FOX
+    5.  Sony
+    6.  Paramount
+    7.  LGF
+    8.  Warner Bros. (New Line Cinema)
+    9.  Lionsgate/Summit Entertainment
+    10. Paramount Pictures/DreamWorks
+
+![Studio Gross Pie](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/studio_gross_pie.png)
+
+![Studio Gross](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/studio_gross.png)
