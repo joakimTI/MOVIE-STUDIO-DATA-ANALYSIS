@@ -40,4 +40,4 @@ Because it was collected from various locations, the different files have differ
 ##### BUSINESS INSIGHT
 1. The Top 5 movie genres by popularity are Action, Adventure, Science Fiction, Fantasy and Comedy. Allocate resources to the top genres and patner with the best studios and directors in these top genres.
 
-
+![Sine Wave Plot](https://github.com/joakimTI/MOVIE-STUDIO-DATA-ANALYSIS/blob/master/Visualization/genre_popularity.png)
