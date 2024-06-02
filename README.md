@@ -24,8 +24,6 @@ In the folder `zippedData` are movie datasets from:
 
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or `pd.read_csv`, while the data from IMDB is located in a SQLite database.
 
-![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
-
 1. TMDB MOVIES DATASET
 	- This will give insight into which genre of movies is most popular.
 
