@@ -85,7 +85,7 @@ Because it was collected from various locations, the different files have differ
     7.  Nadine Labaki
     8.  Nitesh Tiwari
     9.  James Erskine
-    10. Putrama Tuta.
+    10. Putrama Tuta
 3. Buena Vista is the top grossing studio. Buena Vista holds a significant market share of the movies in terms of gross sales, which illustrates its dominance. The list below shows the top 10 studios to patner with from a gross sales standpoint: 
     1.  Buena Vista
     2.  Universal
