@@ -35,4 +35,9 @@ Because it was collected from various locations, the different files have differ
 3. BOM MOVIE GROSS DATASET
 	- This will give insight into  which movie studio performed the best in terms of gross sales.
 
+### 2. DATA ANALYSIS AND VISUALIZATION
+
+##### BUSINESS INSIGHT
+1. The Top 5 movie genres by popularity are Action, Adventure, Science Fiction, Fantasy and Comedy. Allocate resources to the top genres and patner with the best studios and directors in these top genres.
+
 
