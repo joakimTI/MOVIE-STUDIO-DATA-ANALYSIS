@@ -75,7 +75,7 @@ Because it was collected from various locations, the different files have differ
 ### 4. CONCLUSION
 1. The Top 5 movie genres by popularity are Action, Adventure, Science Fiction, Fantasy and Comedy. Allocate resources to the top genres and patner with the best studios and directors in these top genres.
 
-2. The list below showcases a diverse goup of directors with proven success in the movie industry. Partner with these directors for better diversity in content and outreach to audience.
+2. The list below showcases a diverse goup of directors with proven success in the movie industry. Partner with these directors for better diversity in content and outreach to audience:
     1.  Anthony Russo
     2.  Joe Russo
     3.  Nick Morris
