@@ -84,14 +84,4 @@ Because it was collected from various locations, the different files have differ
     8.  Nitesh Tiwari
     9.  James Erskine
     10. Putrama Tuta
-3. Buena Vista is the top grossing studio. Buena Vista holds a significant market share of the movies in terms of gross sales, which illustrates its dominance. The list below shows the top 10 studios to patner with from a gross sales standpoint: 
-    1.  Buena Vista
-    2.  Universal
-    3.  Warner Brothers
-    4.  FOX
-    5.  Sony
-    6.  Paramount
-    7.  LGF
-    8.  Warner Bros. (New Line Cinema)
-    9.  Lionsgate/Summit Entertainment
-    10. Paramount Pictures/DreamWorks
+3. Buena Vista is the top grossing studio. Buena Vista holds a significant market share of the movies in terms of gross sales, which illustrates its dominance. The list below shows the top 10 studios to patner with from a gross sales standpoint; Buena Vista, Universal, Warner Brothers, FOX, Sony, Paramount, LGF, Warner Bros. (New Line Cinema), Lionsgate/Summit, Entertainment, Paramount Pictures/DreamWorks
